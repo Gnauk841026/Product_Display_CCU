@@ -22,7 +22,8 @@ class UserPatchSchema(Schema):
     gender = fields.Str(doc="gender", example="string")
     birth = fields.Str(doc="birth", example="string")
     note = fields.Str(doc="note", example="string")
-
+    account = fields.Str(doc="account", example="string")
+    password = fields.Str(doc="password", example="string")
 
 # Response
 class UserGetResponse(Schema):

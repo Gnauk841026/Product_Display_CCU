@@ -20,7 +20,6 @@ def db_init():
 
 def role_required(*roles):
     def wrapper(fn):
-        @wraps(fn)
         def decorator(*args, **kwargs):
             verify_jwt_in_request()
             claims = get_jwt()
@@ -41,11 +40,7 @@ def get_access_token(user,role,id):
     return token
 
 # Swagger setting for auto bring token in API
-
-security_params_post = [{"bearer": ["AM","SUBAM"]}]
-security_params_pach = [{"bearer": ["AM","SUBAM","NORMAL"]}]
-security_params_delete = [{"bearer": ["AM"]}]
-security_params_get = [{"bearer": ["AM","SUBAM","NORMAL"]}]
+security_params = [{"bearer": []}]
 
 class Login(MethodResource):
     @doc(description="login API", tags=["Login"])
@@ -72,14 +67,13 @@ class Login(MethodResource):
 
 class Users(MethodResource):
     # Get all User
-    @doc(description="Get Users info.", tags=["Users"], security=security_params_get)
+    @doc(description="Get Users info.", tags=["Users"], security=security_params)
     @use_kwargs(user_router_model.UserGetSchema, location="query")
     @marshal_with(user_router_model.UserGetResponse, code=200)
     @role_required('AM', 'SUBAM','NORMAL')
     @jwt_required()
     def get(self, **kwargs):
         db, cursor = db_init()
-
         name = kwargs.get("name")
 
         if name is not None:
@@ -93,7 +87,7 @@ class Users(MethodResource):
         return util.success(users)
 
     # Create User
-    @doc(description="Create User.", tags=["User"], security=security_params_post)
+    @doc(description="Create User.", tags=["User"], security=security_params)
     @use_kwargs(user_router_model.UserPostSchema, location="form")
     @marshal_with(user_router_model.UserCommonResponse, code=200)
     @role_required('AM', 'SUBAM')
@@ -122,11 +116,17 @@ class Users(MethodResource):
 
 
 class User(MethodResource):
-    @doc(description="Get Single user info.", tags=["User"],security=security_params_get)
+    @doc(description="Get Single user info.", tags=["User"],security=security_params)
     @marshal_with(user_router_model.UserGetResponse, code=200)
     @role_required('AM', 'SUBAM','NORMAL')
     @jwt_required()
     def get(self, id):
+        verify_jwt_in_request()
+        claims = get_jwt()
+        user_id = claims["id"]  
+        role = claims["role"]
+        if role == 'NORMAL' and str(user_id) != str(id):
+            return {"msg": "You are not allowed to modify other users' information."}, 403
         db, cursor = db_init()
         sql = f"SELECT * FROM testdb.user WHERE id = '{id}';"
         cursor.execute(sql)
@@ -134,7 +134,7 @@ class User(MethodResource):
         db.close()
         return util.success(users)
 
-    @doc(description="Update User info.", tags=["User"], security=security_params_pach)
+    @doc(description="Update User info.", tags=["User"], security=security_params)
     @use_kwargs(user_router_model.UserPatchSchema, location="form")
     @marshal_with(user_router_model.UserCommonResponse, code=201)
     @role_required('AM', 'SUBAM','NORMAL')
@@ -142,7 +142,7 @@ class User(MethodResource):
     def patch(self, id, **kwargs):
         verify_jwt_in_request()
         claims = get_jwt()
-        user_id = claims["id"]  # 從 token 中獲取用戶 id
+        user_id = claims["id"]  
         role = claims["role"]
         if role == 'NORMAL' and str(user_id) != str(id):
             return {"msg": "You are not allowed to modify other users' information."}, 403
@@ -152,6 +152,8 @@ class User(MethodResource):
             "gender": kwargs.get("gender"),
             "birth": kwargs.get("birth") or "1900-01-01",
             "note": kwargs.get("note"),
+            "account": kwargs.get("account"),
+            "password": kwargs.get("password"),
         }
 
         query = []
@@ -176,7 +178,7 @@ class User(MethodResource):
 
         return util.success()
 
-    @doc(description="Delete User info.", tags=["User"], security=security_params_delete)
+    @doc(description="Delete User info.", tags=["User"], security=security_params)
     @marshal_with(None, code=204)
     @jwt_required()
     @role_required('AM')
