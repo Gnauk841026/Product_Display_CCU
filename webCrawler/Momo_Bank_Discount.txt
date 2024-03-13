@@ -1,0 +1,4092 @@
+<html lang="zh" prefix="og: http://ogp.me/ns#">
+ <head>
+  <script async="async" charset="UTF-8" src="https://cdn.taboola.com/scripts/eid.es5.js" type="text/javascript">
+  </script>
+  <script async="async" charset="UTF-8" src="https://cdn.taboola.com/scripts/cds-pips.js" type="text/javascript">
+  </script>
+  <script async="" src="//img1.momoshop.com.tw/ecm/js/xiaoi.js?t=201705090001" type="text/javascript">
+  </script>
+  <script async="" id="tb_tfa_script" src="//cdn.taboola.com/libtrc/unip/1626112/tfa.js">
+  </script>
+  <script async="" src="https://tags.creativecdn.com/GS00XeaMkLEMxQJpXwzo.js">
+  </script>
+  <script async="" src="https://s.yimg.com/wi/ytc.js">
+  </script>
+  <script async="" src="https://momowa.momoshop.com.tw/momowa/rc/js/momowa.js?t=20231208001" type="text/javascript">
+  </script>
+  <script async="" src="https://connect.facebook.net/signals/config/1181510125200182?v=2.9.148&amp;r=stable&amp;domain=www.momoshop.com.tw&amp;hme=20c913bdcd4be51a752120153aa5caaecb3ee86c7f26cf737846e40b202aba68&amp;ex_m=62%2C106%2C94%2C98%2C53%2C3%2C88%2C61%2C14%2C86%2C79%2C44%2C46%2C150%2C153%2C164%2C160%2C161%2C163%2C25%2C89%2C45%2C68%2C162%2C145%2C148%2C157%2C158%2C165%2C115%2C13%2C43%2C169%2C168%2C117%2C16%2C29%2C32%2C1%2C36%2C57%2C58%2C59%2C63%2C83%2C15%2C12%2C85%2C82%2C81%2C95%2C97%2C31%2C96%2C26%2C22%2C146%2C149%2C124%2C24%2C9%2C10%2C11%2C5%2C6%2C21%2C19%2C20%2C49%2C54%2C56%2C66%2C90%2C23%2C67%2C8%2C7%2C71%2C41%2C18%2C92%2C91%2C17%2C4%2C73%2C80%2C72%2C78%2C40%2C39%2C77%2C33%2C35%2C76%2C48%2C74%2C28%2C37%2C65%2C0%2C84%2C75%2C2%2C30%2C55%2C34%2C93%2C38%2C70%2C60%2C99%2C52%2C51%2C27%2C87%2C50%2C47%2C42%2C69%2C64%2C100">
+  </script>
+  <script async="" src="https://connect.facebook.net/en_US/fbevents.js">
+  </script>
+  <script async="" id="ARK_SDK" src="https://image.momoshop.com.tw/ecm/js/AnalysysAgent_JS_SDK.min.js?v=2024313" type="text/javascript">
+  </script>
+  <link href="/main/favicon.ico" rel="shortcut icon"/>
+  <link href="/main/favicon.ico" rel="Bookmark"/>
+  <link href="/main/favicon.ico" rel="icon" type="image/ico"/>
+  <link href="https://www.momoshop.com.tw/edm/cmmedm.jsp?lpn=O0Y2mh4ttZH&amp;n=1" rel="canonical"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+  <meta content="momo購物網" name="Author"/>
+  <meta content="momoshop,momo購物網" name="Subject"/>
+  <meta content="2024/3月銀行優惠總覽 - momo購物網 " name="Description"/>
+  <meta content="2024/3月銀行優惠總覽" name="Keywords"/>
+  <meta content="Tradition Chinese" name="Language"/>
+  <meta content="momoshop,momo購物網" name="Abstract"/>
+  <meta content="momoshop,momo購物網" name="Copyright"/>
+  <meta content="momoshop,momo購物網" name="Designer"/>
+  <meta content="momoshop,momo購物網" name="Publisher"/>
+  <meta content="Global" name="Distribution"/>
+  <meta content="All" name="Robots"/>
+  <meta content="#D62872" name="theme-color"/>
+  <!-- HTTP 1.1 -->
+  <meta content="no-cache" http-equiv="Cache-Control"/>
+  <!-- HTTP 1.0 -->
+  <meta content="no-cache" http-equiv="Pragma"/>
+  <!-- Prevents caching at the Proxy Server -->
+  <meta content="0" http-equiv="Expires"/>
+  <script type="text/javascript">
+   var isAgeCheck = 'false' == 'true';
+  var isYearAgree = false;
+  </script>
+  <link href="//image.momoshop.com.tw/ecm/css/jquery-ui.css?t=20230202001" rel="stylesheet" type="text/css"/>
+  <script language="javascript" src="//image.momoshop.com.tw/ecm/js/jquery-1.12.4.js?t=20201119001" type="text/javascript">
+  </script>
+  <script language="javascript" src="//image.momoshop.com.tw/ecm/js/jquery-ui.js?t=20201119001" type="text/javascript">
+  </script>
+  <script src="//image.momoshop.com.tw/ecm/js/tool/txtTool.js?t=20210607006" type="text/javascript">
+  </script>
+  <script src="//image.momoshop.com.tw/ecm/js/tool/storageTool.js?t=20220524005" type="text/javascript">
+  </script>
+  <script language="JavaScript" type="text/JavaScript">
+   var IS_WEBP_JS = 'true' == 'true';
+    var BALANCE_IMG_DOMAIN_JS = 'https://i<BYPASS>.momoshop.com.tw';
+  </script>
+  <script language="javascript" src="//image.momoshop.com.tw/ecm/js/goods/imgWebp.js?t=20210601006" type="text/javascript">
+  </script>
+  <script language="javascript" src="//image.momoshop.com.tw/ecm/js/momo.js?t=20240220001" type="text/javascript">
+  </script>
+  <script src="//image.momoshop.com.tw/ecm/js/AstarConvert.js?t=20201120001" type="text/javascript">
+  </script>
+  <script src="//image.momoshop.com.tw/ecm/js/sso.js?t=20211015001" type="text/javascript">
+  </script>
+  <script src="//image.momoshop.com.tw/ecm/js/main/urlCache.js?t=20220524005" type="text/javascript">
+  </script>
+  <script language="javascript" src="//image.momoshop.com.tw/ecm/js/tooth.js?t=20230210001" type="text/javascript">
+  </script>
+  <script src="//image.momoshop.com.tw/ecm/js/2019Main.js?t=20230901001">
+  </script>
+  <script language="javascript" src="//image.momoshop.com.tw/ecm/js/momo-app-bridge-min.js?t=20230918001" type="text/javascript">
+  </script>
+  <script src="//image.momoshop.com.tw/ecm/js/edmShare.js?t=20220905001">
+  </script>
+  <script language="javascript" src="//image.momoshop.com.tw/ecm/js/3pCommon.js?t=20231030003" type="text/javascript">
+  </script>
+  <title>
+   2024/3月銀行優惠總覽 - momo購物網
+  </title>
+  <meta content="2024/3月銀行優惠總覽" property="og:title"/>
+  <meta content="2024/3月銀行優惠總覽 - momo購物網 " property="og:description"/>
+  <meta content="website" property="og:type"/>
+  <meta content="https://img1.momoshop.com.tw/ecm/img/cmm/fb-image-share.jpg" property="og:image"/>
+  <meta content="1200" property="og:image:width"/>
+  <meta content="627" property="og:image:height"/>
+  <meta content="momo.app://momoshop?status=0&amp;goodsUrl=https://www.momoshop.com.tw/edm/cmmedm.jsp?lpn=O0Y2mh4ttZH&amp;n=1&amp;mdiv=1099900000-bt_0_249_01-bt_0_249_01_e1&amp;ctype=B" property="al:android:url"/>
+  <meta content="com.momo.mobile.shoppingv2.android" property="al:android:package"/>
+  <meta content="momo購物網" property="al:android:app_name"/>
+  <meta content="momo.app://momoshop?status=0&amp;goodsUrl=https://www.momoshop.com.tw/edm/cmmedm.jsp?lpn=O0Y2mh4ttZH&amp;n=1&amp;mdiv=1099900000-bt_0_249_01-bt_0_249_01_e1&amp;ctype=B" property="al:ios:url"/>
+  <meta content="861796017" property="al:ios:app_store_id"/>
+  <meta content="momo購物網" property="al:ios:app_name"/>
+  <meta content="true" property="al:web:should_fallback"/>
+  <script src="//image.momoshop.com.tw/ecm/js/ArkModule.js?t=20201119001" type="text/javascript">
+  </script>
+  <style type="text/css">
+   <!--
+  .bt_2_layout_new .bt_2_layout_Content { float: none;}
+ -->
+/*html標籤新增prdImgWrap裡面時的樣式*/
+.prdImgWrap { position: relative; }
+.prdImgWrap .imgTag,
+.prdImgWrap .imgTagBottom,
+.prdImgWrap .imgTagRectangle{height: auto;display:block;position:absolute;left:0;margin:0;padding:0; z-index: 2; pointer-events: none;}
+.prdImgWrap .imgTag {width:28%;top:0;}
+.prdImgWrap .imgTagRectangle{width: 75%;top:0;}
+.prdImgWrap .imgTagBottom{width: 100%;bottom: 0;}
+.prdImgWrap .imgTag img,
+.prdImgWrap .imgTagBottom img,
+.prdImgWrap .imgTagRectangle img {width:100% !important;height:auto;display:block;margin:0;padding:0;border-radius: 0px !important; max-width: none !important;}
+/*html標籤新增prdGoodsImgWrap裡面時的樣式*/
+.prdGoodsImgWrap .imgTag,
+.prdGoodsImgWrap .imgTagBottom,
+.prdGoodsImgWrap .imgTagRectangle{height: auto;display:block;position:absolute;left:0;margin:0;padding:0; z-index: 2; pointer-events: none;}
+.prdGoodsImgWrap .imgTag {width:28%;top:0;}
+.prdGoodsImgWrap .imgTagRectangle{width: 75%;top:0;}
+.prdGoodsImgWrap .imgTagBottom{width: 100%;bottom: 0;}
+.prdGoodsImgWrap .imgTag img,
+.prdGoodsImgWrap .imgTagBottom img,
+.prdGoodsImgWrap .imgTagRectangle img {width:100% !important; height:auto; display:block; margin:0; padding:0; border-radius: 0px !important; max-width: none !important;}
+  </style>
+ </head>
+ <!--
+<style type="text/css">
+ #BodyBase {width: auto; margin:0 auto;}
+ .loginTxt {height: 19px; margin: 4px 0 0 5px;}
+ #BodyBase .headerArea {background: #ffffff; margin:0 auto;}
+ .bt_2_layout_new .bt_2_layout_Content {float:none;}
+</style>
+-->
+ <body>
+  <h1 style="position:absolute; z-index:-1; margin: 0; line-height: 40px; pointer-events: none; color: transparent;">
+   2024/3月銀行優惠總覽 - momo購物網
+  </h1>
+  <script>
+   momoj(document).ready(function(){
+       momoj('#bt_996_layout').css({'display': 'none'});
+     momoj('#bt_0_246_01_P1').css({'display': 'none'});
+  var par = typeof(window.parent) != 'undefined'? window.parent : null;
+  if(par && par != window){
+  }else{
+    if(navigator.userAgent.toLowerCase().indexOf('momoshop') != -1 && "O0Y2mh4ttZH" != "Nz3SDjbxyaL"){ //傳給APP EDM的TITLE，不是919揪團的活動頁
+     var headTitle = "2024/3月銀行優惠總覽";
+     if(headTitle != "" && headTitle.indexOf("919") == -1){
+       var notifyAppObj = new momoAppBridge("shop");
+       notifyAppObj.notifyApp("EdmTitle", headTitle);
+     }
+    }
+  }
+});
+  </script>
+  <div id="BodyBase">
+   <div align="center">
+    <div class="bt_2_layout_new">
+     <meta charset="utf-8"/>
+     <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes, viewport-fit=cover" name="viewport"/>
+     <title>
+      2024/3月銀行優惠總覽 - momo購物網
+     </title>
+     <!-- vendor -->
+     <link href="https://image.momoshop.com.tw/ecm/font/theme-main.css" rel="stylesheet"/>
+     <link href="https://image.momoshop.com.tw/ecm/img/online/10/007/02/880/images/swiper-bundle.min.css?t=1710308125942" rel="stylesheet"/>
+     <!-- main -->
+     <link href="https://image.momoshop.com.tw/ecm/img/online/10/007/02/880/images/style.min.css?t=1710308125942" rel="stylesheet"/>
+     <!-- app -->
+     <div data-v-app="" id="app">
+      <div class="WRAPPER">
+       <div class="Area_header_momologo pc">
+        <a alt="momo購物網" href="https://www.momoshop.com.tw/main/Main.jsp">
+        </a>
+       </div>
+       <div class="Area-hero">
+        <picture>
+         <source media="(min-width: 768px)" srcset="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/banner-pc.png?t=1710308125942"/>
+         <source media="(max-width: 767px)" srcset="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/banner.png?t=1710308125942"/>
+         <img src=""/>
+        </picture>
+        <div class="sub-title-swiper swiper-fade swiper-initialized swiper-horizontal swiper-watch-progress swiper-backface-hidden">
+         <ul aria-live="off" class="swiper-wrapper" id="swiper-wrapper-7c35610bac9fbd3ec">
+          <li aria-label="1 / 1" class="swiper-slide swiper-slide-visible swiper-slide-active" data-ts=" {'mode':'show','start':'2024/03/13 00:00:00','end':'2024/03/18 23:59:59'}" role="group" style="width: 169px; opacity: 1; transform: translate3d(0px, 0px, 0px);">
+           <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/sub-4.png?t=1710308125942"/>
+          </li>
+         </ul>
+         <span aria-atomic="true" aria-live="assertive" class="swiper-notification">
+         </span>
+        </div>
+       </div>
+       <div class="detail-container">
+        <div class="detail-container-inner">
+         <!-- -->
+        </div>
+       </div>
+       <ul class="swiper-tab">
+        <li class="tab active">
+         刷卡優惠
+        </li>
+        <li class="tab">
+         指定卡/卡友日
+        </li>
+        <li class="tab">
+         行動/無卡支付
+        </li>
+        <li class="tab">
+         mo幣/點數回饋
+        </li>
+        <li class="tab">
+         超商取貨
+        </li>
+       </ul>
+       <div class="banner-swiper swiper-initialized swiper-horizontal swiper-backface-hidden">
+        <ul aria-live="off" class="swiper-wrapper" id="swiper-wrapper-75610afdfe10851d57">
+         <li aria-label="1 / 5" class="swiper-slide swiper-slide-active" data-ts=" {'mode':'show','start':'2024/03/01 00:00:00','end':'2024/03/31 23:59:59'}" role="group" style="width: 349.4px; margin-right: 15px;">
+          <a href="https://www.momoshop.com.tw/edm/cmmedm.jsp?npn=1vEIbmOEv6cF&amp;n=1">
+           <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/BN-1.jpg?t=1710308125942"/>
+          </a>
+         </li>
+         <li aria-label="2 / 5" class="swiper-slide swiper-slide-next" data-ts=" {'mode':'show','start':'2024/03/11 00:00:00','end':'2024/03/31 23:59:59'}" role="group" style="width: 349.4px; margin-right: 15px;">
+          <a href="https://www.momoshop.com.tw/edm/cmmedm.jsp?lpn=O0Y2mh4ttZH&amp;n=1&amp;code=013">
+           <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/013-1.png?t=1710308125942"/>
+          </a>
+         </li>
+         <li aria-label="3 / 5" class="swiper-slide" data-ts=" {'mode':'show','start':'2024/03/13 00:00:00','end':'2024/03/18 23:59:59'}" role="group" style="width: 349.4px; margin-right: 15px;">
+          <a href="https://www.momoshop.com.tw/edm/cmmedm.jsp?lpn=O0Y2mh4ttZH&amp;n=1&amp;code=808">
+           <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/808-1.png?t=1710308125942"/>
+          </a>
+         </li>
+         <li aria-label="4 / 5" class="swiper-slide" data-ts=" {'mode':'show','start':'2024/03/13 00:00:00','end':'2024/03/31 23:59:59'}" role="group" style="width: 349.4px; margin-right: 15px;">
+          <a href="https://www.momoshop.com.tw/edm/cmmedm.jsp?lpn=O0Y2mh4ttZH&amp;n=1&amp;code=810">
+           <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/810-1.png?t=1710308125942"/>
+          </a>
+         </li>
+         <li aria-label="5 / 5" class="swiper-slide" data-ts=" {'mode':'show','start':'2024/03/09 00:00:00','end':'2024/03/31 23:59:59'}" role="group" style="width: 349.4px; margin-right: 15px;">
+          <a href="https://www.momoshop.com.tw/edm/cmmedm.jsp?lpn=O6TrfPANo8D&amp;n=1">
+           <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/family.jpg?t=1710308125942"/>
+          </a>
+         </li>
+        </ul>
+        <div class="pagination swiper-pagination swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal">
+         <span aria-current="true" aria-label="Go to slide 1" class="swiper-pagination-bullet swiper-pagination-bullet-active" role="button" tabindex="0">
+         </span>
+         <span aria-label="Go to slide 2" class="swiper-pagination-bullet" role="button" tabindex="0">
+         </span>
+         <span aria-label="Go to slide 3" class="swiper-pagination-bullet" role="button" tabindex="0">
+         </span>
+         <span aria-label="Go to slide 4" class="swiper-pagination-bullet" role="button" tabindex="0">
+         </span>
+        </div>
+        <span aria-atomic="true" aria-live="assertive" class="swiper-notification">
+        </span>
+       </div>
+       <div class="Area-content swiper-initialized swiper-horizontal swiper-backface-hidden">
+        <div class="threshold-group">
+         <button class="threshold-item active" type="button">
+          全部門檻
+         </button>
+         <button class="threshold-item" type="button">
+          $4999以下
+         </button>
+         <button class="threshold-item" type="button">
+          $5000-$9999
+         </button>
+         <button class="threshold-item" type="button">
+          $10000-$19999
+         </button>
+         <button class="threshold-item" type="button">
+          $20000以上
+         </button>
+        </div>
+        <div aria-live="polite" class="swiper-wrapper" id="swiper-wrapper-786a5f2448258262">
+         <div aria-label="1 / 5" class="swiper-slide swiper-slide-active" role="group" style="width: 912px;">
+          <ul class="bank-items-group">
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_momo.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/13-3/18
+               </small>
+               <span class="info-text-normal">
+                累積滿額
+               </span>
+               <b class="info-text-strong">
+                最高送800
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_o2.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                1/1-6/30
+               </small>
+               <span class="info-text-normal">
+                筆筆回饋
+               </span>
+               <b class="info-text-strong">
+                3%無上限
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                1/1-3/31
+               </small>
+               <span class="info-text-normal">
+                千大品牌
+               </span>
+               <b class="info-text-strong">
+                最高7%無上限
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                1/1-3/31
+               </small>
+               <span class="info-text-normal">
+                店外綁定支付
+               </span>
+               <b class="info-text-strong">
+                最高5%
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                1/1-3/31
+               </small>
+               <span class="info-text-normal">
+                海外旅遊消費
+               </span>
+               <b class="info-text-strong">
+                最高5%
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                1/1-3/31
+               </small>
+               <span class="info-text-normal">
+                外送/叫車平台
+               </span>
+               <b class="info-text-strong">
+                最高5%
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                1/1-3/31
+               </small>
+               <span class="info-text-normal">
+                速食/飲料通路
+               </span>
+               <b class="info-text-strong">
+                最高10%
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                1/1-3/31
+               </small>
+               <span class="info-text-normal">
+                大眾運輸
+               </span>
+               <b class="info-text-strong">
+                2%無上限
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_013.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="5000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$5,000
+               </span>
+               <b class="info-text-strong">
+                送200
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$20,000
+               </span>
+               <b class="info-text-strong">
+                送1,500
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="10000">
+              <div class="info-group">
+               <small class="info-time">
+                3/5-3/10
+               </small>
+               <span class="info-text-normal">
+                單筆滿$10,000
+               </span>
+               <b class="info-text-strong">
+                送600
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                3/5-3/10
+               </small>
+               <span class="info-text-normal">
+                單筆滿$25,000
+               </span>
+               <b class="info-text-strong">
+                送2,500
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                1/1-3/31
+               </small>
+               <span class="info-text-normal">
+                CUBE卡
+               </span>
+               <b class="info-text-strong">
+                送3%無上限
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_808.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="5000">
+              <div class="info-group">
+               <small class="info-time">
+                3/19-3/22
+               </small>
+               <span class="info-text-normal">
+                單筆滿$8,000
+               </span>
+               <b class="info-text-strong">
+                送500
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$30,000
+               </span>
+               <b class="info-text-strong">
+                送1,200
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$50,000
+               </span>
+               <b class="info-text-strong">
+                送2,000
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/4-3/8
+               </small>
+               <span class="info-text-normal">
+                單筆滿$3,800
+               </span>
+               <b class="info-text-strong">
+                送380
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="10000">
+              <div class="info-group">
+               <small class="info-time">
+                3/9-3/12
+               </small>
+               <span class="info-text-normal">
+                單筆滿$15,000
+               </span>
+               <b class="info-text-strong">
+                送1,000
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_822.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="5000">
+              <div class="info-group">
+               <small class="info-time">
+                3/19-3/22
+               </small>
+               <span class="info-text-normal">
+                單筆滿$5,000
+               </span>
+               <b class="info-text-strong">
+                送250
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                1/1-3/31
+               </small>
+               <span class="info-text-normal">
+                累積滿$25,000
+               </span>
+               <b class="info-text-strong">
+                送1,000
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3月-週四
+               </small>
+               <span class="info-text-normal">
+                單筆滿$2,000
+               </span>
+               <b class="info-text-strong">
+                送120
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/7
+               </small>
+               <span class="info-text-normal">
+                單筆滿$4,500
+               </span>
+               <b class="info-text-strong">
+                送200
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="5000">
+              <div class="info-group">
+               <small class="info-time">
+                3/8-3/12
+               </small>
+               <span class="info-text-normal">
+                單筆滿$6,000
+               </span>
+               <b class="info-text-strong">
+                送350
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="10000">
+              <div class="info-group">
+               <small class="info-time">
+                3/8-3/12
+               </small>
+               <span class="info-text-normal">
+                單筆滿$16,000
+               </span>
+               <b class="info-text-strong">
+                送1,100
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_810.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="10000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$10,000
+               </span>
+               <b class="info-text-strong">
+                送800
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$25,000
+               </span>
+               <b class="info-text-strong">
+                送2,000
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="5000">
+              <div class="info-group">
+               <small class="info-time">
+                3/19-3/22
+               </small>
+               <span class="info-text-normal">
+                單筆滿$6,000
+               </span>
+               <b class="info-text-strong">
+                送600
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3月-週二
+               </small>
+               <span class="info-text-normal">
+                單筆滿$3,000
+               </span>
+               <b class="info-text-strong">
+                送200
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="5000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/7
+               </small>
+               <span class="info-text-normal">
+                單筆滿$8,000
+               </span>
+               <b class="info-text-strong">
+                送800
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="10000">
+              <div class="info-group">
+               <small class="info-time">
+                3/8-3/12
+               </small>
+               <span class="info-text-normal">
+                單筆滿$10,000
+               </span>
+               <b class="info-text-strong">
+                送1,200
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_812.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                不限金額
+               </span>
+               <b class="info-text-strong">
+                送6%
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-5/31
+               </small>
+               <span class="info-text-normal">
+                指定卡新戶滿2千
+               </span>
+               <b class="info-text-strong">
+                送600
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                即日起-3/31
+               </small>
+               <span class="info-text-normal">
+                @GoGo卡
+               </span>
+               <b class="info-text-strong">
+                最高3.8%
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/7
+               </small>
+               <span class="info-text-normal">
+                不限金額
+               </span>
+               <b class="info-text-strong">
+                送7%
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="10000">
+              <div class="info-group">
+               <small class="info-time">
+                3/8-3/12
+               </small>
+               <span class="info-text-normal">
+                單筆滿$13,800
+               </span>
+               <b class="info-text-strong">
+                送1,000
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                3/8-3/12
+               </small>
+               <span class="info-text-normal">
+                單筆滿3萬
+               </span>
+               <b class="info-text-strong">
+                送2,400
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_805.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="10000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$15,000
+               </span>
+               <b class="info-text-strong">
+                送750
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$55,000
+               </span>
+               <b class="info-text-strong">
+                送2,750
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                3/6-3/12
+               </small>
+               <span class="info-text-normal">
+                單筆滿$25,000
+               </span>
+               <b class="info-text-strong">
+                送2,500
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_807.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="5000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                累積滿$5,000
+               </span>
+               <b class="info-text-strong">
+                送250
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="10000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                累積滿$15,000
+               </span>
+               <b class="info-text-strong">
+                送750
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                累積滿$25,000
+               </span>
+               <b class="info-text-strong">
+                送1,500
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                3/19-3/22
+               </small>
+               <span class="info-text-normal">
+                累積滿$16,000
+               </span>
+               <b class="info-text-strong">
+                送1,000
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                3/19-3/22
+               </small>
+               <span class="info-text-normal">
+                累積滿$50,000
+               </span>
+               <b class="info-text-strong">
+                送5,000
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/12
+               </small>
+               <span class="info-text-normal">
+                累積滿$20,000
+               </span>
+               <b class="info-text-strong">
+                送1,300
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/12
+               </small>
+               <span class="info-text-normal">
+                累積滿$35,000
+               </span>
+               <b class="info-text-strong">
+                送3,500
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_803.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="5000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                累積滿$8,000
+               </span>
+               <b class="info-text-strong">
+                送500
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="10000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/12
+               </small>
+               <span class="info-text-normal">
+                累積滿$12,000
+               </span>
+               <b class="info-text-strong">
+                送1,000
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/12
+               </small>
+               <span class="info-text-normal">
+                累積滿$30,000
+               </span>
+               <b class="info-text-strong">
+                送3,000
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_007.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-5/31
+               </small>
+               <span class="info-text-normal">
+                不限金額
+               </span>
+               <b class="info-text-strong">
+                筆筆送3.5%
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_809.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="5000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                累積滿$5,000
+               </span>
+               <b class="info-text-strong">
+                送1.5%
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="10000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                累積滿$15,000
+               </span>
+               <b class="info-text-strong">
+                送1,000
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$25,000
+               </span>
+               <b class="info-text-strong">
+                送2,000
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="5000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/12
+               </small>
+               <span class="info-text-normal">
+                累積滿$8,888
+               </span>
+               <b class="info-text-strong">
+                送600
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="10000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/12
+               </small>
+               <span class="info-text-normal">
+                單筆滿$13,888
+               </span>
+               <b class="info-text-strong">
+                送1,200
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/12
+               </small>
+               <span class="info-text-normal">
+                單筆滿$25,000
+               </span>
+               <b class="info-text-strong">
+                送2,500
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_005.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/8-限定
+               </small>
+               <span class="info-text-normal">
+                單筆滿$3,888
+               </span>
+               <b class="info-text-strong">
+                送240
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="5000">
+              <div class="info-group">
+               <small class="info-time">
+                3/8-限定
+               </small>
+               <span class="info-text-normal">
+                單筆滿$6,888
+               </span>
+               <b class="info-text-strong">
+                送688
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                3/8-限定
+               </small>
+               <span class="info-text-normal">
+                單筆滿$20,000
+               </span>
+               <b class="info-text-strong">
+                送3,000
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="10000">
+              <div class="info-group">
+               <small class="info-time">
+                3/9-3/12
+               </small>
+               <span class="info-text-normal">
+                單筆滿$10,000
+               </span>
+               <b class="info-text-strong">
+                送688
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                3/9-3/12
+               </small>
+               <span class="info-text-normal">
+                單筆滿$20,000
+               </span>
+               <b class="info-text-strong">
+                送1,388
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                3/9-3/12
+               </small>
+               <span class="info-text-normal">
+                單筆滿$35,000
+               </span>
+               <b class="info-text-strong">
+                送2,500
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_052.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$3,000
+               </span>
+               <b class="info-text-strong">
+                送150
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$25,000
+               </span>
+               <b class="info-text-strong">
+                送1,250
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="10000">
+              <div class="info-group">
+               <small class="info-time">
+                3/8-3/12
+               </small>
+               <span class="info-text-normal">
+                單筆滿$15,000
+               </span>
+               <b class="info-text-strong">
+                送1,500
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_017.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$4,000
+               </span>
+               <b class="info-text-strong">
+                送200
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$25,000
+               </span>
+               <b class="info-text-strong">
+                送1,250
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="5000">
+              <div class="info-group">
+               <small class="info-time">
+                3/19-3/22
+               </small>
+               <span class="info-text-normal">
+                單筆滿$6,000
+               </span>
+               <b class="info-text-strong">
+                送600
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="10000">
+              <div class="info-group">
+               <small class="info-time">
+                3/8-3/12
+               </small>
+               <span class="info-text-normal">
+                單筆滿$12,000
+               </span>
+               <b class="info-text-strong">
+                送1,200
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_jcb.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                1/1-12/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$3,500
+               </span>
+               <b class="info-text-strong">
+                送700
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_visaxpostcsr.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                -週三
+               </small>
+               <span class="info-text-normal">
+                單筆滿$1,000
+               </span>
+               <b class="info-text-strong">
+                送100
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_unionpay.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$5,000
+               </span>
+               <b class="info-text-strong">
+                送300
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="10000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$15,000
+               </span>
+               <b class="info-text-strong">
+                送1,200
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$30,000
+               </span>
+               <b class="info-text-strong">
+                送2,800
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$50,000
+               </span>
+               <b class="info-text-strong">
+                送5,000
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_081.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                1/1-3/31
+               </small>
+               <span class="info-text-normal">
+                匯鑽卡
+               </span>
+               <b class="info-text-strong">
+                最高送6%
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                1/22-3/31
+               </small>
+               <span class="info-text-normal">
+                新戶滿$3,000
+               </span>
+               <b class="info-text-strong">
+                送1,000
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_011.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$25,000
+               </span>
+               <b class="info-text-strong">
+                送2,000
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="5000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/7
+               </small>
+               <span class="info-text-normal">
+                單筆滿$3,000
+               </span>
+               <b class="info-text-strong">
+                送150
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="10000">
+              <div class="info-group">
+               <small class="info-time">
+                3/9-3/12
+               </small>
+               <span class="info-text-normal">
+                單筆滿$15,000
+               </span>
+               <b class="info-text-strong">
+                送1,000
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_006.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="5000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿6,000
+               </span>
+               <b class="info-text-strong">
+                送300
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="10000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$12,000
+               </span>
+               <b class="info-text-strong">
+                送800
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                3/9-3/12
+               </small>
+               <span class="info-text-normal">
+                單筆滿$20,000
+               </span>
+               <b class="info-text-strong">
+                送1,500
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_009.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$25,000
+               </span>
+               <b class="info-text-strong">
+                送2,000
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="5000">
+              <div class="info-group">
+               <small class="info-time">
+                3/19-3/22
+               </small>
+               <span class="info-text-normal">
+                單筆滿$6,000
+               </span>
+               <b class="info-text-strong">
+                送600
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="10000">
+              <div class="info-group">
+               <small class="info-time">
+                3/9-3/12
+               </small>
+               <span class="info-text-normal">
+                單筆滿$15,000
+               </span>
+               <b class="info-text-strong">
+                送1,000
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_008.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$25,000
+               </span>
+               <b class="info-text-strong">
+                送2,000
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="5000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/12
+               </small>
+               <span class="info-text-normal">
+                單筆滿$3,888
+               </span>
+               <b class="info-text-strong">
+                送388
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="10000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/12
+               </small>
+               <span class="info-text-normal">
+                單筆滿$13,800
+               </span>
+               <b class="info-text-strong">
+                送1,380
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_108.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$25,000
+               </span>
+               <b class="info-text-strong">
+                送1,800
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="5000">
+              <div class="info-group">
+               <small class="info-time">
+                3/19-3/22
+               </small>
+               <span class="info-text-normal">
+                單筆滿$6,000
+               </span>
+               <b class="info-text-strong">
+                送600
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/8-3/12
+               </small>
+               <span class="info-text-normal">
+                單筆滿$3,888
+               </span>
+               <b class="info-text-strong">
+                送250
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="10000">
+              <div class="info-group">
+               <small class="info-time">
+                3/8-3/12
+               </small>
+               <span class="info-text-normal">
+                單筆滿$15,000
+               </span>
+               <b class="info-text-strong">
+                送1,200
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_004.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$3,000
+               </span>
+               <b class="info-text-strong">
+                送150
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="10000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$10,000
+               </span>
+               <b class="info-text-strong">
+                送500
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$30,000
+               </span>
+               <b class="info-text-strong">
+                送1,500
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/8
+               </small>
+               <span class="info-text-normal">
+                單筆滿$3,800
+               </span>
+               <b class="info-text-strong">
+                送380
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_816.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="5000">
+              <div class="info-group">
+               <small class="info-time">
+                3/19-3/22
+               </small>
+               <span class="info-text-normal">
+                單筆滿$6,000
+               </span>
+               <b class="info-text-strong">
+                送600
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="10000">
+              <div class="info-group">
+               <small class="info-time">
+                3/19-3/22
+               </small>
+               <span class="info-text-normal">
+                累積滿$15,000
+               </span>
+               <b class="info-text-strong">
+                送1,000
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_amex.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="10000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿15,000
+               </span>
+               <b class="info-text-strong">
+                送900
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+          </ul>
+          <!-- -->
+         </div>
+         <div aria-label="2 / 5" class="swiper-slide swiper-slide-next" role="group" style="width: 912px;">
+          <ul class="bank-items-group">
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_081.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                1/1-3/31
+               </small>
+               <span class="info-text-normal">
+                匯鑽卡
+               </span>
+               <b class="info-text-strong">
+                最高送6%
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_803.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                1/1-7/31
+               </small>
+               <span class="info-text-normal">
+                LINE Bank卡
+               </span>
+               <b class="info-text-strong">
+                最高送5%
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_013.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                1/1-3/31
+               </small>
+               <span class="info-text-normal">
+                CUBE卡
+               </span>
+               <b class="info-text-strong">
+                送3%無上限
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_o2.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                1/1-6/30
+               </small>
+               <span class="info-text-normal">
+                筆筆回饋
+               </span>
+               <b class="info-text-strong">
+                3%無上限
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+          </ul>
+          <ul class="danji-items-group">
+           <li class="danji-item" data-threshold="0">
+            <div class="danji-item-head">
+             <div class="date">
+              <span class="zh">
+               <b>
+                星期二
+               </b>
+              </span>
+              <small class="en">
+               Tuesday
+              </small>
+             </div>
+            </div>
+            <div class="danji-item-body">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_810.jpg?t=1710308125942"/>
+             </div>
+             <div class="info">
+              <p class="info-normal">
+               單筆滿$3,000
+              </p>
+              <p class="info-strong">
+               送$200
+              </p>
+              <p class="info-gift">
+               (momo幣)
+              </p>
+             </div>
+            </div>
+            <div class="danji-item-foot">
+             <p>
+              消費通路登錄位置
+             </p>
+             <a href="https://www.momoshop.com.tw/edm/cmmedm.jsp?npn=1vEIBznxtEYn&amp;n=1">
+              我要登錄
+              <svg height="11px" width="10px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+               <path d="M9.121,4.404 C9.787,4.789 9.787,5.751 9.121,6.136 L2.8,10.245 C1.341,10.630 0.508,10.149 0.508,9.379 L0.508,1.161 C0.508,0.391 1.341,0.89 2.8,0.295 L9.121,4.404 Z" fill="rgb(72, 72, 72)" fill-rule="evenodd">
+               </path>
+              </svg>
+             </a>
+            </div>
+           </li>
+           <li class="danji-item" data-threshold="0">
+            <div class="danji-item-head">
+             <div class="date">
+              <span class="zh">
+               <b>
+                星期三
+               </b>
+              </span>
+              <small class="en">
+               Wednesday
+              </small>
+             </div>
+            </div>
+            <div class="danji-item-body">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_visaxpostcsr.jpg?t=1710308125942"/>
+             </div>
+             <div class="info">
+              <p class="info-normal">
+               單筆滿$1,000
+              </p>
+              <p class="info-strong">
+               送$100
+              </p>
+              <p class="info-gift">
+               (momo幣)
+              </p>
+             </div>
+            </div>
+            <div class="danji-item-foot">
+             <p>
+              消費通路登錄位置
+             </p>
+             <a href="https://www.momoshop.com.tw/edm/cmmedm.jsp?npn=1vEJusXOUQ2M&amp;n=1">
+              我要登錄
+              <svg height="11px" width="10px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+               <path d="M9.121,4.404 C9.787,4.789 9.787,5.751 9.121,6.136 L2.8,10.245 C1.341,10.630 0.508,10.149 0.508,9.379 L0.508,1.161 C0.508,0.391 1.341,0.89 2.8,0.295 L9.121,4.404 Z" fill="rgb(72, 72, 72)" fill-rule="evenodd">
+               </path>
+              </svg>
+             </a>
+            </div>
+           </li>
+           <li class="danji-item" data-threshold="0">
+            <div class="danji-item-head">
+             <div class="date">
+              <span class="zh">
+               <b>
+                星期四
+               </b>
+              </span>
+              <small class="en">
+               Thursday
+              </small>
+             </div>
+            </div>
+            <div class="danji-item-body">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_822.jpg?t=1710308125942"/>
+             </div>
+             <div class="info">
+              <p class="info-normal">
+               單筆滿$2,000
+              </p>
+              <p class="info-strong">
+               送$120
+              </p>
+              <p class="info-gift">
+               (刷卡金)
+              </p>
+             </div>
+            </div>
+            <div class="danji-item-foot">
+             <p>
+              消費通路登錄位置
+             </p>
+             <a href="https://www.momoshop.com.tw/edm/cmmedm.jsp?npn=1vEI88MxLD36&amp;n=1">
+              我要登錄
+              <svg height="11px" width="10px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+               <path d="M9.121,4.404 C9.787,4.789 9.787,5.751 9.121,6.136 L2.8,10.245 C1.341,10.630 0.508,10.149 0.508,9.379 L0.508,1.161 C0.508,0.391 1.341,0.89 2.8,0.295 L9.121,4.404 Z" fill="rgb(72, 72, 72)" fill-rule="evenodd">
+               </path>
+              </svg>
+             </a>
+            </div>
+           </li>
+           <li class="danji-item" data-threshold="0">
+            <div class="danji-item-head">
+             <div class="date">
+              <span class="zh">
+               <b>
+                星期六
+               </b>
+              </span>
+              <small class="en">
+               Saturday
+              </small>
+             </div>
+            </div>
+            <div class="danji-item-body">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_momocard.jpg?t=1710308125942"/>
+             </div>
+             <div class="info">
+              <p class="info-normal">
+               單筆滿$3,000
+              </p>
+              <p class="info-strong">
+               送$200
+              </p>
+              <p class="info-gift">
+               (momo幣)
+              </p>
+             </div>
+            </div>
+            <div class="danji-item-foot">
+             <p>
+              消費通路登錄位置
+             </p>
+             <a href="https://www.momoshop.com.tw/edm/cmmedm.jsp?lpn=O4HODLhMqgP&amp;n=1">
+              我要登錄
+              <svg height="11px" width="10px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+               <path d="M9.121,4.404 C9.787,4.789 9.787,5.751 9.121,6.136 L2.8,10.245 C1.341,10.630 0.508,10.149 0.508,9.379 L0.508,1.161 C0.508,0.391 1.341,0.89 2.8,0.295 L9.121,4.404 Z" fill="rgb(72, 72, 72)" fill-rule="evenodd">
+               </path>
+              </svg>
+             </a>
+            </div>
+           </li>
+          </ul>
+         </div>
+         <div aria-label="3 / 5" class="swiper-slide" role="group" style="width: 912px;">
+          <ul class="bank-items-group">
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_zingala.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="10000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿15,000
+               </span>
+               <b class="info-text-strong">
+                送1,000
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿25,000
+               </span>
+               <b class="info-text-strong">
+                送2,500
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                新戶滿$1,500
+               </span>
+               <b class="info-text-strong">
+                送150
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-4/30
+               </small>
+               <span class="info-text-normal">
+                累積滿額
+               </span>
+               <b class="info-text-strong">
+                抽100%折抵券
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="10000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-4/30
+               </small>
+               <span class="info-text-normal">
+                單筆滿萬
+               </span>
+               <b class="info-text-strong">
+                送500
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-4/30
+               </small>
+               <span class="info-text-normal">
+                新戶免消費
+               </span>
+               <b class="info-text-strong">
+                送100
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-4/30
+               </small>
+               <span class="info-text-normal">
+                加LINE
+               </span>
+               <b class="info-text-strong">
+                抽2,000
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_taiwanmobile.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/12
+               </small>
+               <span class="info-text-normal">
+                單筆滿$1,500
+               </span>
+               <b class="info-text-strong">
+                送200
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/13-3/31
+               </small>
+               <span class="info-text-normal">
+                累積滿$3,000
+               </span>
+               <b class="info-text-strong">
+                送450
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_taiwanmobilepay.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$1,314
+               </span>
+               <b class="info-text-strong">
+                送130
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$3,888
+               </span>
+               <b class="info-text-strong">
+                送300
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                1/1-12/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$5,000
+               </span>
+               <b class="info-text-strong">
+                抽好禮
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_jkopay.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                1/1-3/31
+               </small>
+               <span class="info-text-normal">
+                街利存
+               </span>
+               <b class="info-text-strong">
+                筆筆3%無上限
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+          </ul>
+          <!-- -->
+         </div>
+         <div aria-label="4 / 5" class="swiper-slide" role="group" style="width: 912px;">
+          <ul class="bank-items-group">
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_810.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="5000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/7
+               </small>
+               <span class="info-text-normal">
+                單筆滿$8,000
+               </span>
+               <b class="info-text-strong">
+                送800
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="10000">
+              <div class="info-group">
+               <small class="info-time">
+                3/8-3/12
+               </small>
+               <span class="info-text-normal">
+                單筆滿$10,000
+               </span>
+               <b class="info-text-strong">
+                送1,200
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="5000">
+              <div class="info-group">
+               <small class="info-time">
+                3/19-3/22
+               </small>
+               <span class="info-text-normal">
+                單筆滿$6,000
+               </span>
+               <b class="info-text-strong">
+                送600
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="10000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$10,000
+               </span>
+               <b class="info-text-strong">
+                送800
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$25,000
+               </span>
+               <b class="info-text-strong">
+                送2,000
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3月-週二
+               </small>
+               <span class="info-text-normal">
+                單筆滿$3,000
+               </span>
+               <b class="info-text-strong">
+                送200
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_jcb.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                1/1-12/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$3,500
+               </span>
+               <b class="info-text-strong">
+                送700
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_zingala.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="10000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿15,000
+               </span>
+               <b class="info-text-strong">
+                送1,000
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿25,000
+               </span>
+               <b class="info-text-strong">
+                送2,500
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                新戶滿$1,500
+               </span>
+               <b class="info-text-strong">
+                送150
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_visaxpostcsr.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                -週三
+               </small>
+               <span class="info-text-normal">
+                單筆滿$1,000
+               </span>
+               <b class="info-text-strong">
+                送100
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_taiwanmobile.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/12
+               </small>
+               <span class="info-text-normal">
+                單筆滿$1,500
+               </span>
+               <b class="info-text-strong">
+                送200
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/13-3/31
+               </small>
+               <span class="info-text-normal">
+                累積滿$3,000
+               </span>
+               <b class="info-text-strong">
+                送450
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_happygo.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/12
+               </small>
+               <span class="info-text-normal">
+                不限金額兌點
+               </span>
+               <b class="info-text-strong">
+                抽38%
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/12
+               </small>
+               <span class="info-text-normal">
+                兌點達1千點
+               </span>
+               <b class="info-text-strong">
+                抽3,800點
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_taiwanmobilepay.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$1,314
+               </span>
+               <b class="info-text-strong">
+                送130
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$3,888
+               </span>
+               <b class="info-text-strong">
+                送300
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_myfone.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/6-3/12
+               </small>
+               <span class="info-text-normal">
+                單筆滿$1,000
+               </span>
+               <b class="info-text-strong">
+                送$50
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_004.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/8
+               </small>
+               <span class="info-text-normal">
+                單筆滿$3,800
+               </span>
+               <b class="info-text-strong">
+                送380
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$3,000
+               </span>
+               <b class="info-text-strong">
+                送150
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="10000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$10,000
+               </span>
+               <b class="info-text-strong">
+                送500
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="20000">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$30,000
+               </span>
+               <b class="info-text-strong">
+                送1,500
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_816.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="5000">
+              <div class="info-group">
+               <small class="info-time">
+                3/19-3/22
+               </small>
+               <span class="info-text-normal">
+                單筆滿$6,000
+               </span>
+               <b class="info-text-strong">
+                送600
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="10000">
+              <div class="info-group">
+               <small class="info-time">
+                3/19-3/22
+               </small>
+               <span class="info-text-normal">
+                累積滿$15,000
+               </span>
+               <b class="info-text-strong">
+                送1,000
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_081.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                1/22-3/31
+               </small>
+               <span class="info-text-normal">
+                新戶滿$3,000
+               </span>
+               <b class="info-text-strong">
+                送1,000
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_812.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-5/31
+               </small>
+               <span class="info-text-normal">
+                指定卡新戶滿2千
+               </span>
+               <b class="info-text-strong">
+                送600
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+          </ul>
+          <!-- -->
+         </div>
+         <div aria-label="5 / 5" class="swiper-slide" role="group" style="width: 912px;">
+          <ul class="bank-items-group">
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_family.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$1,000
+               </span>
+               <b class="info-text-strong">
+                送咖哩飯
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/8
+               </small>
+               <span class="info-text-normal">
+                單筆滿$399
+               </span>
+               <b class="info-text-strong">
+                送起司塔
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_711.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/1-3/31
+               </small>
+               <span class="info-text-normal">
+                單筆滿$1,000
+               </span>
+               <b class="info-text-strong">
+                送純奶茶
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_myfone.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/6-3/12
+               </small>
+               <span class="info-text-normal">
+                單筆滿$1,000
+               </span>
+               <b class="info-text-strong">
+                送$50
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+           <li class="bank-item">
+            <div class="bank-item-head">
+             <div class="logo">
+              <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/bank_logo_OK.jpg?t=1710308125942"/>
+             </div>
+            </div>
+            <ul class="bank-item-body">
+             <li class="info" data-threshold="0">
+              <div class="info-group">
+               <small class="info-time">
+                3/9-3/18
+               </small>
+               <span class="info-text-normal">
+                單筆滿$1,000
+               </span>
+               <b class="info-text-strong">
+                送$50
+               </b>
+              </div>
+              <i class="info-go">
+               <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/arrow.png?t=1710308125942"/>
+              </i>
+             </li>
+            </ul>
+           </li>
+          </ul>
+          <!-- -->
+         </div>
+        </div>
+        <span aria-atomic="true" aria-live="assertive" class="swiper-notification">
+        </span>
+       </div>
+       <div class="banner-ad-swiper swiper-initialized swiper-horizontal swiper-backface-hidden">
+        <ul aria-live="off" class="swiper-wrapper" id="swiper-wrapper-b6af136d43e6cfb6">
+         <li aria-label="1 / 2" class="swiper-slide swiper-slide-active" role="group" style="width: 896px; margin-right: 15px;">
+          <a href="https://www.fubon.com/banking/personal/credit_card/all_card/momo/momo.htm">
+           <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/1220x100-1.jpg?t=1710308125942"/>
+          </a>
+         </li>
+         <li aria-label="2 / 2" class="swiper-slide swiper-slide-next" role="group" style="width: 896px; margin-right: 15px;">
+          <a href="https://www.fubon.com/banking/personal/credit_card/all_card/omiyage/omiyage.htm">
+           <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/1220x100-2.jpg?t=1710308125942"/>
+          </a>
+         </li>
+        </ul>
+        <div class="pagination swiper-pagination swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal">
+         <span aria-current="true" aria-label="Go to slide 1" class="swiper-pagination-bullet swiper-pagination-bullet-active" role="button" tabindex="0">
+         </span>
+         <span aria-label="Go to slide 2" class="swiper-pagination-bullet" role="button" tabindex="0">
+         </span>
+        </div>
+        <span aria-atomic="true" aria-live="assertive" class="swiper-notification">
+        </span>
+       </div>
+       <div class="anchor-block">
+        <h3 class="anchor-block-head">
+         各大銀行
+        </h3>
+        <div class="anchor-block-body">
+         <ul class="anchor-items-group">
+          <li class="anchor-item active">
+           全部
+          </li>
+          <li class="anchor-item">
+           加碼
+          </li>
+          <li class="anchor-item">
+           momo卡
+          </li>
+          <li class="anchor-item">
+           國泰
+          </li>
+          <li class="anchor-item">
+           玉山
+          </li>
+          <li class="anchor-item">
+           中信
+          </li>
+          <li class="anchor-item">
+           星展
+          </li>
+          <li class="anchor-item">
+           台新
+          </li>
+          <li class="anchor-item">
+           遠東
+          </li>
+          <li class="anchor-item">
+           永豐
+          </li>
+          <li class="anchor-item">
+           聯邦
+          </li>
+          <li class="anchor-item">
+           第一
+          </li>
+          <li class="anchor-item">
+           凱基
+          </li>
+          <li class="anchor-item">
+           土地
+          </li>
+          <li class="anchor-item">
+           渣打
+          </li>
+          <li class="anchor-item">
+           兆豐
+          </li>
+          <li class="anchor-item">
+           JCB
+          </li>
+          <li class="anchor-item">
+           郵政
+          </li>
+          <li class="anchor-item">
+           銀聯
+          </li>
+          <li class="anchor-item">
+           匯豐
+          </li>
+          <li class="anchor-item">
+           上海
+          </li>
+          <li class="anchor-item">
+           合庫
+          </li>
+          <li class="anchor-item">
+           彰化
+          </li>
+          <li class="anchor-item">
+           華南
+          </li>
+          <li class="anchor-item">
+           陽信
+          </li>
+          <li class="anchor-item">
+           臺灣
+          </li>
+          <li class="anchor-item">
+           安泰
+          </li>
+          <li class="anchor-item">
+           美運
+          </li>
+          <!-- -->
+          <!-- -->
+          <!-- -->
+          <!-- -->
+          <!-- -->
+          <!-- -->
+          <!-- -->
+          <!-- -->
+         </ul>
+        </div>
+        <div>
+         <img src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880//images/fixbox_bottom.png?t=1710308125942"/>
+        </div>
+       </div>
+       <div class="notice">
+        <div class="footer-title">
+         <h2>
+          謹慎理財 信用至上
+         </h2>
+        </div>
+        <div class="footer-message">
+         <p>
+          銀行活動請以各銀行公告為主
+         </p>
+        </div>
+       </div>
+       <!-- -->
+       <!-- -->
+      </div>
+     </div>
+     <!-- get img -->
+     <img id="jsurl_inset" src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880/images/loadinggif.gif?t=1710308125942" style="display: none;"/>
+     <img id="jsurl_jslink" src="https://img3.momoshop.com.tw/ecm/img/online/10/007/02/880/images/loadinggif.gif?t=1710308125942" style="display: none;"/>
+     <!-- vendor -->
+     <script charset="utf-8" language="javascript" src="https://image.momoshop.com.tw/ecm/js/jquery-1.12.4.js?t=20201119001" type="text/javascript">
+     </script>
+     <script src="https://image.momoshop.com.tw/ecm/img/online/10/007/02/880/images/timeSwitch.js?t=1710308125942">
+     </script>
+     <script src="https://image.momoshop.com.tw/ecm/img/online/10/007/02/880/images/vue.min.js?t=1710308125942">
+     </script>
+     <script src="https://image.momoshop.com.tw/ecm/img/online/10/007/02/880/images/swiper-bundle.min.js?t=1710308125942">
+     </script>
+     <!-- data -->
+     <script src="https://image.momoshop.com.tw/ecm/img/online/10/007/02/880/images/bank.js?t=1710308125942">
+     </script>
+     <script src="https://image.momoshop.com.tw/ecm/img/online/10/007/02/880/images/swiperConfig.js?t=1710308125942">
+     </script>
+     <!-- main -->
+     <script src="https://image.momoshop.com.tw/ecm/img/online/10/007/02/880/images/components.js?t=1710308125942">
+     </script>
+     <script src="https://image.momoshop.com.tw/ecm/img/online/10/007/02/880/images/main.js?t=1710308125942">
+     </script>
+    </div>
+   </div>
+  </div>
+  <!--footer start-->
+  <script src="//image.momoshop.com.tw/ecm/js/itriweblog.js?t=20201119001">
+  </script>
+  <script>
+   // FB PageView 事件不管在哪頁都要送,如果該頁面沒有footer就在這邊送
+  try{
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '1181510125200182'); // pixel ID
+        fbq('track', 'PageView');
+     } catch(e) {
+     }
+  </script>
+  <!-- 判斷天地結束 -->
+  <!-- tracking code start for momoshop-->
+  <!-- tracking code end -->
+  <!--全站下紅包雨相關變數-->
+  <script>
+   var raining_second = 12;
+  var raining_timestamp = '20221102001';
+  var raining_giftMap = {
+    'A'        : 'game_end_done.jpg',
+    'END'      : 'game_end_off.jpg',
+    'FULL'     : 'game_end_off.jpg',
+  //獎項
+    'gift1'    : 'game_end_coupon_4.jpg',//哈根達斯
+    'gift2'    : 'game_end_coupon_5.jpg',//麗寶樂園
+    'gift3'    : 'game_end_coupon_1.jpg',//Uber
+    'gift4'    : 'game_end_coupon_3.jpg',//聯想耳機
+    'mo_1'     : 'game_end_m1.jpg',
+    'mo_2'     : 'game_end_m2.jpg',
+    'mo_5'     : 'game_end_m5.jpg',
+    'mo_11'    : 'game_end_m11.jpg',
+    'mo_21'    : 'game_end_m21.jpg',
+    'mo_111'   : 'game_end_m111.jpg',
+    'mo_999'   : 'game_end_m999.jpg',
+    '003':'003'
+  };
+  </script>
+  <script id="textInjection">
+   !function(){
+  /**
+    var s = new Date('2020/11/07');
+    var e = new Date('2020/11/25');
+    var d = new Date();
+    if(s<d && d<e){    
+      if(/MemberCenter.jsp/.test(location.href)){        
+        var busyNote = '雙11活動為物流出貨繁忙期，可能導致商品無法於指定日期到貨之情況，請您見諒。';
+        //add order note
+        if(typeof(mkMainOrdList)=='function'){
+          var oriFunc2 = mkMainOrdList;
+          mkMainOrdList = function(funcTitle, funcBtn, funcArea, posid){
+            oriFunc2(funcTitle, funcBtn, funcArea, posid);
+            
+            var total = 5000;
+            var period = 10;
+            var itv = setInterval(function(){
+              var ma = momoj('#topInstructions #orderText');
+
+              if(ma.length>0 || total < 0){
+                clearInterval(itv);
+              }
+
+              total -= period;
+
+              if(ma.length>0){
+                momoj('.busyNote').remove();
+                var html = '<p class="busyNote" style="color:#FF0000;font-weight: bold;">'+busyNote+'</p>';
+                ma.after(html);
+              }
+            },period);
+          }
+        }
+        if(typeof(servtpl)=='object'){
+          //add TM note
+          if(servtpl.Center_ReplyArea){
+            var additionalHTML = '<br><span style="color:#FF0000;font-weight: bold;font-size:13px">'+busyNote+'</span>';
+            var replacementHTML = '常見詢問如下，歡迎您多加利用';
+            servtpl.Center_ReplyArea = servtpl.Center_ReplyArea.replace(replacementHTML, replacementHTML + additionalHTML);
+            
+          }
+        }
+        
+
+      }//end of MemberCenter
+    }//end of date
+  **/
+  }();
+  </script>
+  <script language="javascript">
+   momoj(document).ready(function(){
+  try {
+    momoj().importXiaoiJs();
+  } catch(err) {
+  }
+  
+  var categoryPage = false;
+  
+});
+  </script>
+  <div id="dvImg" style="display:none">
+  </div>
+  <div class="fancybox-overlay">
+  </div>
+  <!-- momowa start 2016.03.02 by ucwang-->
+  <script src="//image.momoshop.com.tw/ecm/js/chkMobile.js?t=20201119001">
+  </script>
+  <script type="text/javascript">
+   if(typeof momoWaDomain === 'undefined') {
+    momoWaDomain = "momowa.momoshop.com.tw";
+    if (!/(www|m)\.momoshop\.com\.tw/.test(location.hostname)) {
+      momoWaDomain = "test-momowa.momoshop.com.tw";
+    }
+  }
+
+  var momowaSiteId = "shop";
+  var ua = navigator.userAgent.toLowerCase();
+  if(isMobile(ua)){ //手機裝置
+    momowaSiteId = "shopmobile";
+  }
+  var momowaCmds = momowaCmds || [];
+  momowaCmds.push(['setSiteId',momowaSiteId]);
+  momowaCmds.push(['setTrackerUrl','https://'+ momoWaDomain +'/momowa/rc/RC.MMW']);
+
+  var noTrackmomowa = 
+    ((location.pathname == "/goods/GoodsDetail.jsp") && (/^#(info|spec|gifts)$/.test(location.hash))) 
+    || (location.pathname == "/com/Notice.jsp") || ua.indexOf("momoshop") >= 0;
+  
+  if (!noTrackmomowa) {
+    var _tempDCode = momoj('#tempDCode').val();
+    momowaCmds.push(['setDefaultCategory', _tempDCode]);
+  
+    if(location.pathname != '/search/searchShop.jsp'){//非搜尋結果頁才做track
+      momowaCmds.push(['trackPageView']);
+    }
+    
+    if(location.pathname == '/main/Main.jsp' && momoj().cookie('newCustCoupon')
+        && !momoj().cookie('momowaShowBN') && momoj('#bt_A_021_01_c1').html() == 'on'){
+      momowaCmds.push(['trackAction', 'couponBN', 'showBN', 'momoshop', '1']);
+      momoj().cookie('momowaShowBN', '1', {path:'/', expires: 1});
+    }
+    
+    if(location.pathname == '/main/Main.jsp' && momoj('#bt_0_213_01').length > 0) {
+      momoj('#bt_0_213_01 .TabContent ul li').delegate('a', 'click', function(){
+        momowaCmds.push(['trackAction', '精選頻道', 'click', momoj(this).attr('title'), '0']);
+      });
+    }
+  }
+  
+  momoj(document).ready(function() {
+    var cnames = [];
+    momoj('#bt_2_layout_NAV').find('ul').find('li').each(function(){
+      var cname = 'string' == typeof momoj(this).text() ? momoj(this).text().trim() : '';
+      if(cname) {
+        cnames.push(cname);
+      }
+    });
+    
+    if (location.pathname == '/category/LgrpCategory.jsp' || location.pathname == '/category/DgrpCategory.jsp') {
+      if(cnames.length > 0){
+        'object'===typeof ArkModule&&ArkModule.track&&(
+          ArkModule.track('view_cate_page', {
+            first_category: cnames.length > 1 ? cnames[1] : 'none',
+            second_category: cnames.length > 2 ? cnames[2] : 'none',
+            third_category: cnames.length > 3 ? cnames[3] : 'none',
+            fourth_category: cnames.length > 4 ? cnames[4] : 'none'
+          })
+        );
+      }
+    } 
+  });
+  if (!noTrackmomowa) {
+    (function(){
+      var _mwa =document.createElement('script');_mwa.type = 'text/javascript';
+      _mwa.async = true;
+      _mwa.src = 'https://'+ momoWaDomain +'/momowa/rc/js/momowa.js?t=20231208001';
+      var _mwa_s = document.getElementsByTagName('script')[0];
+      _mwa_s.parentNode.insertBefore(_mwa,_mwa_s);
+    }());
+  }
+  
+  
+  
+  try{
+    if (!noTrackmomowa && (
+        location.pathname == '/goods/GoodsDetail.jsp' || location.pathname == '/edm/cmmedm.jsp' || 
+        location.pathname == '/category/LgrpCategory.jsp' || location.pathname == '/category/DgrpCategory.jsp')) {
+      var loadAppierJS = window.appier_q? false:true;
+      window.appier_q = window.appier_q || [];
+      window.appier_q.push(
+        {"t": "register", "content": { "id": "MkPv", "site": "momoshop.com.tw" }},
+        {"t": "type_conversion", "content": "submit", "action_id": "Conversion_36db", "track_id":"72qn3zK802792xc", "opts": {"unique_key": "true"}});
+      if(loadAppierJS){
+        document.write('<script src="//jscdn.appier.net/aa.js?id=momoshop.com.tw" defer><\/script>');
+      }
+    }
+  }catch(e){}
+  </script>
+  <script defer="" src="//jscdn.appier.net/aa.js?id=momoshop.com.tw">
+  </script>
+  <!-- momowa end -->
+  <!--紅包雨-->
+  <script src="//image.momoshop.com.tw/ecm/js/couponRain.js?t=20221102001">
+  </script>
+  <script type="text/javascript">
+   var scupioParam = new Object();
+    var criteoParam = new Object();
+    var appierParam = new Object();
+    var oeyaParam = new Object(); //通路王
+    var appierUserID = new Object();
+    var ecommProduct = new Array();     
+    var ecommCate = new Array();        
+    var cateCodeArray = new Array();    
+    var cateNameArray = new Array();    
+    var marcoGTMArray = new Array();    
+    var dCateCodeGoodsCodeArray = new Array();    
+    var ecommPageType = "";             
+    var ecommTotalValue = '';           
+    var ecommCategory = '';             
+    var cateCount = 0;                  
+    var ecommLogin = "n";    
+    var str_factor=/(\s)|(\n)/g;        
+    var custNoForRemarketing='';
+    var emailForRemarketing='';
+    var loginCustNo = '';
+    var yahooPrarm = new Object();
+    var conversionObj = new Object();
+    var tamPurchaseList = new Array();
+    var tamProductInfo = [];
+    var appierProductInfo = [];
+    var arkAnaObj = new Object();
+    yahooPrarm.productList='';
+    yahooPrarm.units='';
+    yahooPrarm.amounts='';
+    oeyaParam.amount='';
+    oeyaParam.gno='';
+    oeyaParam.gname='';
+    oeyaParam.bid='';
+    var rtbPaearm = new Object();
+    var cookieCcmedia = momoj().cookie('ccmedia');
+    if(cookieCcmedia!=null && cookieCcmedia.length>11){
+      custNoForRemarketing = cookieCcmedia.substring(0,12);
+      emailForRemarketing = 'momo'+custNoForRemarketing+'@fmt.com.tw';
+    }
+    var _mwa_uniVisitorInfo = momoj().cookie('_mwa_uniVisitorInfo');
+    _mwa_uniVisitorInfo = _mwa_uniVisitorInfo == null ? '' : _mwa_uniVisitorInfo.slice(0, _mwa_uniVisitorInfo.indexOf("."));
+    appierUserID.userEmail=custNoForRemarketing;
+    
+          criteoParam.event= "viewHome"; 
+          ecommPageType = 'edm';
+  </script>
+  <script>
+   try{
+    
+    window.appier_q = window.appier_q || [];
+    window.appier_q.push({"t": "register", "content": { "id": "MkPv", "site": "momoshop.com.tw" }},
+    {"t":"pv_track","action_id": "ERlDyPL9yO7gfOb","track_id":"72qn3zK802792xc","isCountReload":true,"counter": 0},
+    {"t":"pv_track","action_id": "c7279b5af7b77d1","track_id":"72qn3zK802792xc","isCountReload":false,"counter": 1});
+    
+    
+    if (loginCustNo!='') {
+      window.appier_q.push({"t": "register", "content": { "id": "MkPv", "site": "momoshop.com.tw" }},
+        {"t": "type_login","ids": [{ "idtype": "email_sha256", "content": loginCustNo, "needSHA256": true}]});
+    }
+    
+    
+    if(ecommPageType=='home'){
+      window.appier_q.push({"t": "register", "content": { "id": "MkPv", "site": "momoshop.com.tw" }},{"t": "type_home","content": ""});
+      
+    
+    }else if(ecommPageType=='category'){
+      window.appier_q.push({"t": "register", "content": { "id": "MkPv", "site": "momoshop.com.tw" }},{"t": "type_listpage","categoryIDs": cateCodeArray, "productIDList": dCateCodeGoodsCodeArray});
+      
+    
+    }else if(ecommPageType=='product'){
+      window.appier_q.push({"t": "register", "content": { "id": "MkPv", "site": "momoshop.com.tw" }},{"t": "type_product","itemList":appierProductInfo});
+    }
+  }catch(e){}
+  </script>
+  <script defer="" src="//jscdn.appier.net/aa.js?id=momoshop.com.tw">
+  </script>
+  <script async="true" src="//static.criteo.net/js/ld/ld.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   window.criteo_q = window.criteo_q||[];
+  window.criteo_q.push(
+    { event: "setAccount", account: 17930 },
+    { event: "setEmail", email: emailForRemarketing },
+    { event: "setSiteType", type: "d" });
+    window.criteo_q.push(criteoParam);
+  </script>
+  <script type="application/javascript">
+   try {
+    (function(w,d,t,r,u){w[u]=w[u]||[];w[u].push(
+    {
+      'projectId':'10000',
+      'properties':{
+        'pixelId':'10018784'
+        }
+    });
+    var s=d.createElement(t);s.src=r;s.async=true;
+    s.onload=s.onreadystatechange=function(){
+      var y,rs=this.readyState,c=w[u];
+      if(rs&&rs!="complete"&&rs!="loaded"){return}
+      try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}
+    };
+    var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)}
+    )(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");
+
+    if (ecommPageType=='product') { // 商品頁
+      window.dotq = window.dotq || [];
+      window.dotq.push(
+      {
+        'projectId': '10000',
+        'properties': {
+          'pixelId': '10018784',
+          'qstrings': {
+            'et': 'custom',
+            'ea': 'ViewProduct',
+            'product_id': appierParam.goodsCode
+            }
+        }
+      });  
+    } else if (ecommPageType=='purchase') { // 立單完成頁
+      window.dotq = window.dotq || [];
+      window.dotq.push(
+      {
+        'projectId': '10000',
+        'properties': {
+          'pixelId': '10018784',
+          'qstrings': {
+            'et': 'custom',
+            'ea': 'Purchase',
+            'product_id': ecommProduct.toString(),
+            'gv': ecommTotalValue
+            }
+        }
+      });
+      }
+    } catch(e){
+    }
+  </script>
+  <script type="text/javascript">
+   ecommTotalValue = (ecommTotalValue == '' ? 0 : parseInt(ecommTotalValue));
+    var google_tag_params;
+    if (ecommPageType=='other') {
+      google_tag_params = {
+          ecomm_pagetype:ecommPageType,
+      };
+    } else {
+      google_tag_params = {
+          ecomm_prodid:ecommProduct,
+          ecomm_pagetype:ecommPageType,
+          ecomm_totalvalue: parseInt(ecommTotalValue),
+          category:ecommCate,
+          login:ecommLogin
+      };
+    }
+  </script>
+  <script src="//image.momoshop.com.tw/ecm/js/rtbHouse.js?t=20231229001">
+  </script>
+  <script>
+   if(typeof rtbhEventsApi === 'object') {
+   try {  
+     if (ecommPageType === 'home') { // 首頁
+      rtbhEventsApi.push('home', emailForRemarketing);
+     } else if (ecommPageType === 'category') { // 分類頁
+      rtbhEventsApi.pushCategory(rtbPaearm.categoryCode, emailForRemarketing);
+     } else if (ecommPageType === 'product') { // 商品頁
+      rtbhEventsApi.pushOfferId('offer', rtbPaearm.goodsCode, emailForRemarketing);
+     } else if (ecommPageType === 'purchase') { // 立單完成頁
+      rtbhEventsApi.pushOrderPurchase(totalPrice, appierParam.orderId, goodsCodeArr, true, emailForRemarketing);
+     } else if (ecommPageType === 'edm') {
+      rtbhEventsApi.push('sales', emailForRemarketing);
+     }
+    } catch(e) {
+     console.error(e);
+    }
+  }
+  </script>
+  <script>
+   !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1181510125200182'); // pixel ID
+    fbq('track', 'PageView');
+  </script>
+  <noscript>
+   <img height="1" src="https://www.facebook.com/tr?id=1181510125200182&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/>
+  </noscript>
+  <script type="text/javascript">
+   try {
+    
+    if (ecommPageType=='category') { // 分類頁
+      /*
+      fbq('track', 'ViewContent', {
+        content_ids: rtbPaearm.categoryCode,
+        content_type: 'product_group'
+      });
+      */
+    } else if (ecommPageType=='product') { // 商品頁
+      if(typeof fbq != 'undefined'){
+        fbq('track', 'ViewContent', {
+          content_ids: ecommProduct,
+          content_type: 'product',
+          content_category: momoj("#tempLCode").val(),
+          value: ecommTotalValue,
+          currency: 'TWD',
+          brand: remarketingBrandName,
+          Custom_label_0: remarketingEntpCode
+          });
+      }
+    } else if (ecommPageType=='purchase') { // 立單完成頁
+      if(typeof fbq != 'undefined'){
+        fbq('track', 'Purchase', {
+          contents: pdListForFacebook,
+          content_type: 'product',
+          currency: 'TWD'
+        });  
+      }
+    }       
+  } catch(e) {
+  }
+  </script>
+  <!-- google tag manager -->
+  <!-- tenMax viewcontent start -->
+  <script>
+   if (ecommPageType=='product') { // 商品頁
+  if(typeof sendTenMaxViewContent == "function"){
+    var tenMaxViewContent = {
+      "productId" : ecommProduct.toString(),
+      "name" : goodsName.trim(),
+      "salePrice" : goodsPrice,
+      "description" : "",
+      "brand" : remarketingBrandName,
+      "category" : ecommCategory
+    };
+    sendTenMaxViewContent(tenMaxViewContent);
+  }
+}
+  </script>
+  <!-- tenMax viewcontent end -->
+  <!-- osm Process start -->
+  <script>
+   function waitingForBI() {
+  var isBI = momoj().cookie('isBI');
+  if(isBI != '1'){
+    setTimeout(function(){
+      waitingForBI();
+    },500);
+  } else {
+    //有bid之後處理osm
+    var osm = getUrlParameter('osm');
+    var gid = getUrlParameter('gid_ic');
+    var oid = getUrlParameter('oid');
+    var i_code = getUrlParameter('i_code');
+    var memid = getUrlParameter('memid');
+
+    var data = {data:{URL:"/ajax/ajaxTool.jsp?rn=" + Math.random(), 
+      flag:3099,
+      "osm":osm,
+      "gid_ic":gid,
+      "oid":oid,
+      "i_code":i_code,
+      "memid":memid
+      }}
+    momoj.ajaxTool(data);
+  }
+}
+
+var url = location.href;
+if(url.indexOf('osm')>-1||url.indexOf('gid_ic')>-1||url.indexOf('oid')>-1||url.indexOf('memid')>-1){
+  waitingForBI();//有bid之後處理osm
+}
+
+function getUrlParameter(name) {
+    name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+    var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+    var results = regex.exec(location.search);
+    return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+}
+  </script>
+  <!-- osmProcess end -->
+  <script type="text/javascript">
+   if (ecommPageType=='product') {
+    'object'===typeof ArkModule&&ArkModule.track&&(
+      ArkModule.track('view_item', arkAnaObj)
+    );
+  } else if (ecommPageType=='purchase') {
+    'object'===typeof ArkModule&&ArkModule.track&&(
+        ArkModule.track('submit_order', arkAnaObj)
+      );
+    'object'===typeof ArkModule&&ArkModule.track&&(
+      ArkModule.track('pay_order', arkAnaObj)
+    );
+  }
+
+  var mdivString = getUrlParameter('mdiv');
+  if(mdivString.length > 0){
+    
+    var mdivArray = new Array();
+    var ark_resource_name = '';
+    
+    if(mdivString.indexOf('-') > -1){
+      mdivArray = mdivString.split('-');
+    }
+    
+    if(mdivArray.length > 0){
+      ark_resource_name = mdivArray[mdivArray.length - 1];
+    } else {
+      ark_resource_name = mdivString;
+    }
+    
+    var icode = getUrlParameter('i_code');
+    'object'===typeof ArkModule&&ArkModule.track&&(
+      ArkModule.track('resource_click', {
+        resource_name: ark_resource_name,
+        $page_name: ecommPageType,
+        item_id: icode ? icode : 'none'
+      })
+    );
+  }
+  </script>
+  <script>
+   var arkLogin = momoj().cookie('arkLogin');
+  if(arkLogin != null && arkLogin.length>0 && custNoForRemarketing) {
+    setTimeout(function(){
+      'object'===typeof ArkModule&&ArkModule.alias&&(
+          ArkModule.alias(custNoForRemarketing)
+        );
+      var arkLoginMethod = {
+        '1' : 'general',
+        '2' : 'google',
+        '3' : 'facebook',
+        '4' : 'line'
+      };
+      if(arkLoginMethod[arkLogin]!=null && arkLoginMethod[arkLogin].length>0){
+        'object'===typeof ArkModule&&ArkModule.track&&(
+            ArkModule.track('login_in', {
+              is_success: true,
+              login_method: arkLoginMethod[arkLogin]
+            })
+          );
+      }
+      momoj().cookie('arkLogin', '', {path:'/', expires: 0, domain:'momoshop.com.tw'});
+    }, 3000);
+  }
+  </script>
+  <!-- Taboola Pixel Code -->
+  <script type="text/javascript">
+   window._tfa = window._tfa || [];
+  window._tfa.push({notify: 'event', name: 'page_view', id: 1626112});
+  !function (t, f, a, x) {
+   if (!document.getElementById(x)) {
+     t.async = 1;t.src = a;t.id=x;f.parentNode.insertBefore(t, f);
+   }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/unip/1626112/tfa.js',
+  'tb_tfa_script');
+  </script>
+  <!-- End of Taboola Pixel Code -->
+  <!--footer end-->
+  <script>
+   var edmCode = '1000702880';
+  </script>
+  <script>
+   //判斷裝置來更換連結 20210220 jrhsu
+momoj(document).on("click",".js-PD_id a",function(e){
+  var urlpc = momoj(this).attr("data-urlpc");
+  var urlphone = momoj(this).attr("data-urlphone");
+  var href = momoj(this).attr("href");
+  var ua = navigator.userAgent.toLowerCase();
+  if(isMobile(ua)){ //手機裝置
+    if(urlphone){
+      momoj(this).attr("href" , urlphone);
+    }
+  }else{
+    if(urlpc){
+      momoj(this).attr("href" , urlpc);
+    }
+  }  
+  var mallyn = momoj(this).attr("mallyn");
+  if(mallyn){ //若為3P商品檢查裝置
+    if(!checkAccessAndRedirectForApp(momoj(this).attr("href"))){
+      e.preventDefault();
+    };
+  }
+});
+
+if (true && location.href.toString().indexOf('https') == -1) {
+  var momowaCmds = momowaCmds || [];
+  momowaCmds.push(['setSiteId','shop']);
+  momowaCmds.push(['setTrackerUrl','https://momowa.momoshop.com.tw/momowa/rc/RC.MMW']);
+  momowaCmds.push(['trackPageView']);
+  (function(){
+    var _mwa =document.createElement('script');_mwa.type = 'text/javascript';
+    _mwa.async = true;
+    _mwa.src = 'https://momowa.momoshop.com.tw/momowa/rc/js/momowa.js?t=20231208001';
+    var _mwa_s = document.getElementsByTagName('script')[0];
+    _mwa_s.parentNode.insertBefore(_mwa,_mwa_s);
+  }());
+  
+  window.momowaReady = function() {
+    ChangeHttps();
+  }
+  function ChangeHttps() {
+    
+      location.replace('https://www.momoshop.com.tw/edm/cmmedm.jsp?lpn=O0Y2mh4ttZH&n=1&mdiv=1099900000-bt_0_249_01-bt_0_249_01_e1&ctype=B');
+    
+  }
+}
+  </script>
+  <img alt="dot image pixel" class="ywa-10000" src="https://sp.analytics.yahoo.com/sp.pl?a=10000&amp;d=Wed%2C%2013%20Mar%202024%2006%3A09%3A30%20GMT&amp;n=-8&amp;b=2024%2F3%E6%9C%88%E9%8A%80%E8%A1%8C%E5%84%AA%E6%83%A0%E7%B8%BD%E8%A6%BD%20-%20momo%E8%B3%BC%E7%89%A9%E7%B6%B2&amp;.yp=10018784&amp;f=https%3A%2F%2Fwww.momoshop.com.tw%2Fedm%2Fcmmedm.jsp%3Flpn%3DO0Y2mh4ttZH%26n%3D1%26mdiv%3D1099900000-bt_0_249_01-bt_0_249_01_e1%26ctype%3DB&amp;enc=UTF-8&amp;yv=1.15.1" style="display: none;"/>
+  <div id="criteo-tags-div" style="display: none;">
+   <iframe frameborder="0" height="0" id="criteo-syncframe-onetag" src='https://gum.criteo.com/syncframe?topUrl=www.momoshop.com.tw&amp;origin=onetag#{"bundle":{"origin":0,"value":null},"cw":true,"optout":{"origin":0,"value":null},"origin":"onetag","sid":{"origin":0,"value":null},"tld":"momoshop.com.tw","topUrl":"www.momoshop.com.tw","version":"5_23_0","ifa":{"origin":0,"value":null},"lsw":true,"pm":0}' style="border-width:0px; margin:0px; display:none" title="Criteo GUM iframe" width="0">
+   </iframe>
+  </div>
+ </body>
+</html>
