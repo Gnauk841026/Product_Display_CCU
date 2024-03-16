@@ -9,7 +9,37 @@ from bs4 import BeautifulSoup
 import time
 import pandas as pd
 import json
+from datetime import datetime
 
+# #DB設定
+def insert_sql(list):
+    db = pymysql.connect(host="localhost",
+                     user="root",
+                     password="root",
+                     database="momo")
+    cursor = db.cursor()
+    for item in list:
+        bank_name = item['bank']
+        bank_id = item['bank_id']
+        strdate = item['strdate']
+        enddate = item['enddate']
+        event = item['event']
+        sql = "INSERT INTO discount (bank, bank_id,strdate,enddate,event) VALUES (%s, %s, %s, %s, %s)"
+        val = (bank_name, bank_id, strdate, enddate, event)
+        cursor.execute(sql, val)
+        db.commit()
+
+        
+
+# 自動化命名檔案名稱
+def generate_filename(prefix="momo_bank_discount"):
+    # 獲取當前的日期和時間
+    now = datetime.now()
+    # 格式化日期時間為 'YYYYMMDDHHMM' 的格式
+    date_time_format = now.strftime("%Y%m%d%H%M")
+    # 組合檔案名稱
+    filename = f"{prefix}_{date_time_format}.json"
+    return filename
 
 
 TARGET_URL = "https://www.momoshop.com.tw/edm/cmmedm.jsp?lpn=O0Y2mh4ttZH&n=1&mdiv=1099900000-bt_0_249_01-bt_0_249_01_e1&ctype=B"
@@ -44,11 +74,9 @@ for bank_item in bank_items:
         promo_time = promo.find('small', class_='info-time').text.strip()
         promo_text = " ".join([t.text.strip() for t in promo.find_all(['span', 'b'], class_=['info-text-normal', 'info-text-strong'])])
         # 輸出銀行代號與相關優惠信息
-        print(f"{bank_code}: {promo_time} - {promo_text}")
 
 banks_df = pd.read_csv('taiwan_banks.csv')
 banks_mapping = dict(zip(banks_df['銀行代碼'].astype(str), banks_df['銀行名稱']))
-print(banks_mapping)
 results = []
 
 for bank_item in bank_items:
@@ -59,18 +87,23 @@ for bank_item in bank_items:
     promotions = bank_item.find_all('li', class_='info')
     for promo in promotions:
         promo_time = promo.find('small', class_='info-time').text.strip()
+        strday , endday = promo_time.split('-')
         promo_text = " ".join([t.text.strip() for t in promo.find_all(['span', 'b'], class_=['info-text-normal', 'info-text-strong'])])
         
         # 將信息儲存到字典中，然後加入到結果列表
         result = {
             "bank": bank_name,
             "bank_id": bank_code,
-            "date": promo_time,
+            "strdate": strday,
+            "enddate": endday,
             "event": promo_text
         }
         results.append(result)
 
 # 將結果列表轉換成 JSON 字串，然後列印或儲存
 results_json = json.dumps(results, ensure_ascii=False, indent=2)
-print(results_json)
-
+filename = generate_filename()
+with open(filename, 'w', encoding='utf-8') as file:
+    file.write(results_json)
+    
+insert_sql(results)
