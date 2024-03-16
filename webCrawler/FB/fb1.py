@@ -37,14 +37,14 @@ driver = webdriver.Chrome(service=service, options = options)
 driver.get(TARGET_URL)
 
 
-# 获取邮箱和密码DOM元素
-email =  driver.find_element(By.ID, "email")
-password = driver.find_element(By.ID, "pass")
-login = driver.find_element(By.NAME, "login")
-# cssnm = ".x1i10hfl.xggy1nq.x1s07b3s.x1kdt53j.x1a2a7pz.xjbqb8w.x1n2xptk"
-# email = driver.find_element(By.CSS_SELECTOR, f"{cssnm}[type='email']")
-# password = driver.find_element(By.CSS_SELECTOR, f"{cssnm}[type='password']")
-# login = driver.find_element(By.CSS_SELECTOR, "div[role='button'][aria-label='Accessible login button']")
+# # 获取邮箱和密码DOM元素
+# email =  driver.find_element(By.ID, "email")
+# password = driver.find_element(By.ID, "pass")
+# login = driver.find_element(By.NAME, "login")
+cssnm = ".x1i10hfl.xggy1nq.x1s07b3s.x1kdt53j.x1a2a7pz.xjbqb8w.x1n2xptk"
+email = driver.find_element(By.CSS_SELECTOR, f"{cssnm}[type='email']")
+password = driver.find_element(By.CSS_SELECTOR, f"{cssnm}[type='password']")
+login = driver.find_element(By.CSS_SELECTOR, "div[role='button'][aria-label='Accessible login button']")
 
 
 
