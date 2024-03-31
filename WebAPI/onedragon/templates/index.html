@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pchome及momo促銷商品及價格</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='work.css') }}">
+    <style>
+        
+        .scrollable-table {
+            overflow-y:auto;
+            height: 450px; 
+            position:fixed;
+            top: 50%; 
+            left: 50%; 
+            transform: translate(-50%, -30%); 
+            color: rgb(255, 255, 255);
+            font-size: 4rem; /* 添加字体大小属性 */
+            white-space: nowrap; /* 防止文本换行 */
+        }
+
+        .scrollable-table table thead {
+            position: sticky;
+            top: 0;
+            background-color: #000000; 
+            z-index: 1; 
+        }
+        .form-group {
+            text-align: center;
+            display: flex;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+
+        .form-group label {
+            color: white;
+            font-weight: bold;
+        }
+
+ 
+
+        
+    </style>
+    
+</head>
+<body>
+    <section>
+        <h1 class="text-shadow"> -- DV05_Database -- </h1>
+        <div class="tags">
+            <p class="text-shadow">-- pchome及momo促銷商品及價格 --</p>
+        </div>
+    </section>
+    
+    
+    <div class="container">
+        <form action="/" method="GET" class="form-group">
+            <label for="price_min">日期:</label>
+            <input type="text" id="price_min" name="price_min"><br><br>
+            <label for="price_max">商品名稱:</label>
+            <input type="text" id="price_max" name="price_max"><br><br>
+    
+            <label for="type">平台:</label>
+            <select id="type" name="type">
+                <option value="type_false">Momo</option>
+                <option value="type_true">Pchome</option>
+            </select>
+            <br>
+            
+            <div class="btn from-top" onclick="performSearch()">
+                <div class="color-change">提交</div>
+            </div>
+            <br>
+            <!-- <button type="submit">搜尋</button> -->
+        </form>
+    </div>
+
+        <!-- <label for="has_parking">是否有車位:</label>
+        <select id="has_parking" name="has_parking">
+            <option value="any">不限</option>
+            <option value="true">有</option>
+            <option value="false">無</option> -->
+
+        </select><br><br>
+        <!-- <button type="submit">搜尋</button> -->
+    </div>
+    </form>
+    <div class="scrollable-table">
+        <table border="1">
+            <thead>
+                <tr>
+                    <th>活動日期</th>
+                    <th>時間</th>
+                    <th>商品名稱</th>
+                    <th>折扣</th>
+                    <th>價格</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for row in rows %}
+                <tr>
+                    <td>{{ row.date }}</td>
+                    <td>{{ row.time }}</td>
+                    <td>{{ row.name }}</td>
+                    <!-- <td><a href="https://www.google.com/maps/search/?api=1&query={{ row.address }}" target="_blank">{{ row.address }}</a></td> -->
+                    <td>{{ row.Discount }}</td>
+                    <td>{{ row.price }}</td>
+                    <!-- <td>{{ row.floor }}</td>
+                    <td>{{ row.parking }}</td>
+                    <td>{{ row.source }}</td>
+                    <td>{{ row.type }}</td>
+                    <td>{{ row.payment_start }}</td>
+                    <td>{{ row.monthly_payment }}</td> -->
+                </tr>
+                {% else %}
+                <tr><td colspan="5">未找到商品。</td></tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    <script src="{{ url_for('static', filename='sh.js') }}"></script>
+    
+     
+    <iframe style="border-radius:12px; position: fixed; top: 0; right: 0;" src="https://open.spotify.com/embed/show/6mK9tf1UnVaTnefJikSWwX?utm_source=generator&theme=0" width="30%" height="150" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</body>
+</html>

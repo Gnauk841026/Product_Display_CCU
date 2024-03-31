@@ -1,0 +1,283 @@
+@import url("https://fonts.googleapis.com/css2?family=Alumni+Sans:wght@400;600;700&display=swap");
+
+:root {
+    --blue: #2962ff;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    -def: #96B7C4; 	
+	--inv: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(-25deg, #96B7C4 0%, #070707 100%);
+    font-family: "Alumni Sans", sans-serif;
+    font-size: 20px;
+}
+html {
+	font-size: 5px;
+	font-family: 'Playfair Display', serif;
+}
+div {margin-bottom: 2rem;}
+div:last-child {margin-bottom: 0;}
+
+.section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-size: 1em;
+    background: #212121;
+    color: #fff;
+    text-transform: uppercase;
+    gap: 30px;
+}
+
+.section {
+    text-align: center;
+}
+
+h1.text-shadow {
+    /* 根据需要设置其他样式 */
+    font-size: 2.5em;
+    text-decoration: underline;
+    display:flex;
+    top: 50%; 
+    left: 50%; 
+    transform: translate(0%, -380%);
+}
+
+p.text-shadow {
+    /* 根据需要设置其他样式 */
+
+    text-decoration: underline;
+    display:flex;
+    top: 50%; 
+    left: 50%; 
+    transform: translate(13%, -800%);
+}
+
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 1.3em;
+    }
+}
+
+.text-shadow {
+    font-style: italic;
+    text-transform: uppercase;
+    color: transparent;
+    -webkit-text-stroke: #fff;
+    -webkit-text-stroke-width: 1px;
+    text-shadow: 2px 2px 10px var(--blue);
+    transition: all 0.5s ease-in-out;
+    text-align: center;
+    letter-spacing: 0.2em;
+    animation: flicker 0.5s ease-in-out infinite alternate;
+}
+
+.text-shadow:hover {
+    color: #fff;
+}
+
+
+
+@keyframes flicker {
+    0% {
+        opacity: 0.5;
+        text-shadow: 2px 2px 10px var(--blue);
+    }
+    100% {
+        opacity: 1;
+        text-shadow: 2px 2px 20px var(--blue);
+    }
+}
+
+
+.container {
+    display: flex;
+    top: 50%; 
+    left: 50%; 
+    transform: translate(5%, -300%);
+}
+
+.form-group label,
+        .form-group input,
+        .form-group select {
+            display: block;
+            margin: 0 auto;
+        }
+
+/* 用於選擇項目時的樣式 */
+.selected {
+    background-color: lightblue;
+    
+}
+
+
+.btn {
+    top: 1.5rem;		
+	position: relative;	
+	padding: 1.4rem 4.2rem;
+	padding-right: 3.1rem;
+	font-size: 1.2rem;
+	color: var(--inv);
+	letter-spacing: 1.1rem;
+	text-transform: uppercase;
+	transition: all 500ms cubic-bezier(0.77, 0, 0.175, 1);	
+	cursor: pointer;
+	user-select: none;
+}
+
+.btn:before, .btn:after {
+	content: '';
+	position: absolute;	
+	transition: inherit;
+	z-index: -1;
+}
+
+.btn:hover {
+	color: var(--def);
+	transition-delay: .5s;
+}
+
+.btn:hover:before {
+	transition-delay: 0s;
+    
+}
+
+.btn:hover:after {
+	background: var(--inv);
+	transition-delay: .35s;
+}
+
+/* From Top */
+.from-top{
+    font-size: 3rem;
+}
+.from-top:before, 
+.from-top:after {
+	left: 0;
+	height: 0;
+	width: 100%;
+}
+
+.from-top:before {
+	bottom: 0;	
+	border: 1px solid var(--inv);
+	border-top: 0;
+	border-bottom: 0;
+    transition: transform 0.3s; /* 添加過渡效果 */
+}
+
+.from-top:after {
+	top: 0px;
+	height: 0;
+
+}
+
+.from-top:hover:before,
+.from-top:hover:after {
+	height: 100%;
+}
+
+
+
+.form-group select,
+.form-group input[type="text"] {
+    margin-right: 20px;
+    width: 200px;
+    padding: 5px;
+    border: 1px solid #ccc; /* 添加初始邊框顏色 */
+    transition: border-color 0.3s ease; /* 定義過渡效果 */
+}
+.form-group select,
+.form-group input[type="text"]:hover {
+    border-color: #69c; /* 定義懸停時的邊框顏色 */
+}
+
+
+@keyframes input-animation {
+    0% { transform: scaleX(0); }
+    100% { transform: scaleX(1); }
+}
+
+.form-group input[type="text"] {
+    margin-right: 20px;
+    width: 200px;
+    padding: 5px;
+}
+
+.form-group input[type="text"]::placeholder {
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.form-group input[type="text"]:focus::placeholder {
+    opacity: 1;
+    transition: opacity 0.3s ease;
+}
+
+.form-group input[type="text"]:focus::placeholder {
+    animation: input-animation 0.5s ease forwards;
+}
+
+.form-group select,
+.form-group input[type="text"] {
+    margin-right: 20px;
+    width: 200px;
+    padding: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+}
+
+
+
+
+/* 隐藏浏览器默认滚动条 */
+.scrollable-table::-webkit-scrollbar {
+    width: 10px; /* 设置滚动条宽度 */
+    background-color: #000000; /* 设置滚动条背景色 */
+}
+
+/* 滚动条滑块 */
+.scrollable-table::-webkit-scrollbar-thumb {
+    background-color: #888; /* 设置滑块颜色 */
+    border-radius: 20px; /* 设置滑块圆角 */
+}
+
+.scrollable-table::-webkit-scrollbar-thumb:hover {
+    background-color: #ffffff; /* 设置滑块悬停状态下的颜色 */
+}
+
+
+/* 初始字體顏色 */
+.color-change {
+    font-weight: normal; /* 初始字體粗細 */
+    font-family:'Times New Roman', Times, serif; /* 初始字體類型 */
+    color: rgb(255, 255, 255);
+    transition: color 0.4;
+    transition: font-family 0.3s;
+}
+
+/* 滑鼠移上去時改變字體顏色 */
+.color-change:hover {
+    font-weight:bolder; /* 滑鼠懸停時的字體粗細 */
+    font-family: "Times New Roman", serif; /* 滑鼠懸停時的字體類型 */
+    color: rgb(0, 0, 0);
+    
+}
+
+.color-change:active {
+    transform: scale(0.9); /* 縮小元素 */
+}
