@@ -9,5 +9,6 @@
 <img src="Picture/ELK_DashBoard.jpg">
 
 ## 資料收集到資訊處理
+Code:[Code](/)
 ### [資料收集到資訊處理](https://yummy-homegrown-8cf.notion.site/eec92b02528449839d88cd2003d503b8?pvs=4)
 <img src="Picture/onedragon.png">
